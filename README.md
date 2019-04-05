@@ -1,5 +1,8 @@
 # Adding elasticsearch to firebase
 
+I have written a blog about it available at https://medium.com/@prajwalkrishnamaitin/adding-search-functionality-to-firebase-cloud-functions-using-elasticsearch-c40d3544d357?source=friends_link&sk=34c43f02a0bc551031775f81e081b112. Enjoy.
+
+
 All cloud functions are written in index.js to deploy setup firebase-cli and run following command-
 
     firebase deploy --only functions
